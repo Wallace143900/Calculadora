@@ -1,3 +1,5 @@
+Sobre a Lógica dessa calculadora!
+
 Variáveis Globais:
 
 -runningTotal: Armazena o resultado acumulado das operações.
