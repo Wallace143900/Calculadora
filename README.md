@@ -1,4 +1,4 @@
-Sobre a Lógica dessa calculadora!
+Sobre a Lógica desse projeto que controla o fluxo de entrada de uma calculadora e executa as operações matemáticas correspondentes, atualizando o visor conforme necessário.
 
 Variáveis Globais:
 
