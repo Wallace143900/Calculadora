@@ -72,5 +72,3 @@ Função init():
 
 -Esta função é chamada para inicializar a calculadora.
 Adiciona um ouvinte de evento de clique aos botões da calculadora para chamar a função buttonClick(value) quando um botão é clicado.
-
--Basicamente, este código controla o fluxo de entrada de uma calculadora simples e executa as operações matemáticas correspondentes, atualizando o visor conforme necessário.
